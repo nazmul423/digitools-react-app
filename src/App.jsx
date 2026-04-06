@@ -3,6 +3,7 @@ import './App.css'
 import Banner from './components/banner/Banner'
 import Stats from './components/stats/Stats'
 
+
 function App() {
 
   return (
@@ -11,7 +12,7 @@ function App() {
 
       <Banner />
 
-      <Stats/>
+      <Stats></Stats>
 
     </>
   )
